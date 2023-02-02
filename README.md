@@ -15,6 +15,7 @@ Overall, this was a great project to introduce me to Unity and game design.
 
 # Gameplay Videos
 https://user-images.githubusercontent.com/20999053/216226674-3019d48e-6777-46a6-88a5-aebc2d5e0ef1.mp4
+
 https://user-images.githubusercontent.com/20999053/216226686-740a0ce6-3240-4378-9907-f52ecb6911e4.mp4
 
 # How to use
